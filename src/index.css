@@ -1,3 +1,64 @@
+/* Added css style  */
+
+/* Area to  add google font to page */
+/* navbar fonts */
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300&display=swap');
+
+/* css styling area */
+*{
+  margin: 0;
+  padding: 0;
+}
+/* navbar css */
+.navbar{
+  font-family: 'Newsreader', serif;
+  background-color: white !important;
+}
+
+.navbar-brand{
+  font-size: 2rem !important;
+}
+
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #ad6a12;
+}
+
+.navbar a:hover{
+  color: blue !important;
+}
+
+.button {
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: rgb(17, 76, 99);
+  border: 2px solid #39dbdbec;
+  text-decoration: none;
+}
+
+.button:hover{
+  background: rgb(88, 155, 218);
+  color: white;
+}
+
+.header-img{
+  text-align: right;
+}
+
+.foot{
+  margin-top: 50px;
+}
+/* #header .animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+} */
+
+/* The below code is by default code given during installation */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
