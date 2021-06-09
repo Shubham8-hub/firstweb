@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/firstweb/static/css/main.b24c1454.chunk.css",
+    "main.js": "/firstweb/static/js/main.cc3b9578.chunk.js",
+    "main.js.map": "/firstweb/static/js/main.cc3b9578.chunk.js.map",
+    "runtime-main.js": "/firstweb/static/js/runtime-main.9402c808.js",
+    "runtime-main.js.map": "/firstweb/static/js/runtime-main.9402c808.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/firstweb/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.72310903.chunk.js": "/firstweb/static/js/2.72310903.chunk.js",
+    "static/js/2.72310903.chunk.js.map": "/firstweb/static/js/2.72310903.chunk.js.map",
+    "static/js/3.1f38fa0b.chunk.js": "/firstweb/static/js/3.1f38fa0b.chunk.js",
+    "static/js/3.1f38fa0b.chunk.js.map": "/firstweb/static/js/3.1f38fa0b.chunk.js.map",
+    "index.html": "/firstweb/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/firstweb/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.b24c1454.chunk.css.map": "/firstweb/static/css/main.b24c1454.chunk.css.map",
+    "static/js/2.72310903.chunk.js.LICENSE.txt": "/firstweb/static/js/2.72310903.chunk.js.LICENSE.txt",
+    "static/media/adruino.2e0fe5c4.jpg": "/firstweb/static/media/adruino.2e0fe5c4.jpg",
+    "static/media/img2.563c56d6.png": "/firstweb/static/media/img2.563c56d6.png",
+    "static/media/python.fea8ba8e.jpg": "/firstweb/static/media/python.fea8ba8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9402c808.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.72310903.chunk.js",
+    "static/css/main.b24c1454.chunk.css",
+    "static/js/main.cc3b9578.chunk.js"
+  ]
+}
